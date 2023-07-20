@@ -4,7 +4,8 @@ Tools
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" />
 	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
-	
+	<img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" />
+	<img src="https://img.shields.io/badge/letsencrypt-003A70?style=flat&logo=letsencrypt&logoColor=white" />
 </div>
 
 
