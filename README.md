@@ -11,7 +11,6 @@ My development log : https://www.notion.so/hangjo0610/HJ-s-676aa011bc524f24a8780
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
 	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
 	<!-- 	<img src="https://img.shields.io/badge/letsencrypt-003A70?style=flat&logo=letsencrypt&logoColor=white" />
 	<img src="https://img.shields.io/badge/jsonwebtokens-000000?style=flat&logo=jsonwebtokens&logoColor=white" />doc
 	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
