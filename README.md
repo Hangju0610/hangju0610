@@ -1,11 +1,15 @@
-Tools
+### Languege
 <div align="left">
-	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white" />
-	<img src="https://img.shields.io/badge/Typescript-3178C6?style=flat&logo=Typescript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
+	<img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white" />
+</div>
+
+### 🔭Framework
+<div align="left">
 	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-	<img src="https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white" />
+	<img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
+	<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
 	<img src="https://img.shields.io/badge/nginx-009639?style=flat&logo=nginx&logoColor=white" />
-	<img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white" />
 	<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white" />
 	<img src="https://img.shields.io/badge/sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" />
 	<img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white" />
@@ -14,11 +18,22 @@ Tools
 	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
 	<img src="https://img.shields.io/badge/amazonec2-FF9900?style=flat&logo=amazonec2&logoColor=white" />
 	<img src="https://img.shields.io/badge/awscodedeploy-569A31?style=flat&logo=AWS codedeploy3&logoColor=white" />
-	<img src="https://img.shields.io/badge/amazons3-569A31?style=flat&logo=amazons3&logoColor=white" />
+	<img src="https://img.shields.io/badge/nestjs-E0234E?style=flat&logo=nestjs3&logoColor=white" />
 	<img src="https://img.shields.io/badge/amazonrds-527FFF?style=flat&logo=amazonrds&logoColor=white" />
 -->
 </div>
 
+### Server
+<div align="left">
+	<img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</div>
+
+### Database
+<div align="left">
+	<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+	<img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+	<img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</div>
 
 My development log : https://www.notion.so/hangjo0610/HJ-s-676aa011bc524f24a878013b07b6f83a?pvs=4
 
