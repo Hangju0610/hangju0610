@@ -1,5 +1,5 @@
 > 💡 **Contact & Resume**
-> * [Notion Resume (Backend Developer)]([https://hangju0610.notion.site/Backend-Developer-2fadfc01f46080ec984fc187acfed693](https://drive.google.com/file/d/1uKwGpeesH-bjAVgFMTDsFiYQhyJHHFVX/view?usp=sharing))
+> * [Notion Resume (Backend Developer)]([https://drive.google.com/file/d/1uKwGpeesH-bjAVgFMTDsFiYQhyJHHFVX/view?usp=sharing])
 <!--
 **Hangju0610/hangju0610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
